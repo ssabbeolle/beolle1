@@ -20,3 +20,8 @@ a{
   justify-content: space-between;
   align-items: center;
 }
+.image{
+ display:inline-grid;
+ grid-template-columns: repeat;
+ grid-template-rows: 1fr;
+}
